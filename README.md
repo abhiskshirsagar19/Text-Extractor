@@ -1,13 +1,9 @@
 # Text-Extractor
-To explain the code for a "Text Extractor" and its flow in layman terms, let's break it down into simple steps:
-
 ---
 
 ### **What Does a Text Extractor Do?**
 A text extractor is a program or tool that can extract readable text from various sources, like:
-- PDF documents
 - Images
-- Scanned files
 
 It can be useful for tasks like pulling text from a document for analysis or searching through the content.
 
